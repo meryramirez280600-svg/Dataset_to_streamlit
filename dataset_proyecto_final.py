@@ -544,8 +544,8 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 #instalación de librerias
-!pip install -q streamlit
-!npm install -g localtunnel
+#!pip install -q streamlit
+#!npm install -g localtunnel
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
